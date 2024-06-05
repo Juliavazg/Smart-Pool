@@ -42,3 +42,8 @@ Este componente actúa en función de la temperatura, a partir de ciertos grados
 ### LED RGB
 
 En el caso de el LED RGB, Al igual que el ventilador, actua en función de la temperatura utilizando colores para indicarnos las temperaturas: Rojo (Calor), Verde (Templado), y Azul (Frio).<br/>
+
+## Mecanismo
+
+![piñón (1)](https://github.com/Juliavazg/Smart-Pool/assets/171036231/c6602764-5e9d-428f-9601-9d6edbe4ec17)
+
