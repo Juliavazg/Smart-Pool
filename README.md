@@ -12,6 +12,7 @@ La smart pool es una piscina inteligente con los procesos totalmente  automatiza
 - LED RGB que indica la temperatura del ambiente con un sencillo código de color
 ## Fritzing
 
+![protoboardmaqueta_bb](https://github.com/Juliavazg/Smart-Pool/assets/171036231/ef4e5d7d-e04e-4fdd-8e08-127207aa0107)
 
 
 ## Programación
