@@ -1,0 +1,3 @@
+- En función de la humedad del ambiente, si hum< 40% se enciende una bomba de riego
+
+- Sensor PIR, si una persona intenta pasar por cierta puerta la alarma se enciende por que es sensor detecta a la persona
